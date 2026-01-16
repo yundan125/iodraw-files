@@ -29,7 +29,7 @@
           <mxGeometry x="235" y="46" width="142" height="48" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-58" value="Node Embeddings" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="600" y="1240" width="250" height="120" as="geometry" />
+          <mxGeometry x="600" y="1320" width="250" height="120" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-64" value="z₂(t₁)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-58">
           <mxGeometry x="162.7920393559928" y="28.234810636583397" width="48.07692307692307" height="19.726027397260275" as="geometry" />
