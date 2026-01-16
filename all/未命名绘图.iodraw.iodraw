@@ -13,10 +13,10 @@
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-52" value="m₂(t₁)" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-50">
           <mxGeometry x="30" y="111.16666666666667" width="100" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="ziIK5Gps9_UgfE5r7tsA-53" value="m₂(t₂)" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-50">
+        <mxCell id="ziIK5Gps9_UgfE5r7tsA-53" value="m₂(t₂)" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-50">
           <mxGeometry x="30" y="167.71666666666667" width="100" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="ziIK5Gps9_UgfE5r7tsA-54" value="m₃(t₂)" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-50">
+        <mxCell id="ziIK5Gps9_UgfE5r7tsA-54" value="m₃(t₂)" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#9673a6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#e1d5e7;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-50">
           <mxGeometry x="30" y="217.5" width="100" height="29" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-55" value="Edge Probabilities" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
