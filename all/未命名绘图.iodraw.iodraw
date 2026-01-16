@@ -29,19 +29,19 @@
           <mxGeometry x="145.7905544147844" y="112.1951219512195" width="43.53182751540041" height="117.07317073170731" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-50" value="Messages" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="270" y="1580" width="160" height="300" as="geometry" />
+          <mxGeometry x="270" y="1580" width="160" height="250" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-51" value="m₁(t₁)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-50">
-          <mxGeometry x="30" y="40" width="100" height="30" as="geometry" />
+          <mxGeometry x="30" y="33.333333333333336" width="100" height="25" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-52" value="m₂(t₁)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-50">
-          <mxGeometry x="30" y="100" width="99.99" height="30" as="geometry" />
+          <mxGeometry x="30" y="83.33333333333334" width="99.99" height="25" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-53" value="m₂(t₂)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-50">
-          <mxGeometry x="27.35" y="156.83" width="102.65" height="33.17" as="geometry" />
+          <mxGeometry x="27.35" y="130.6916666666667" width="102.65" height="27.64166666666667" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-54" value="m₃(t₂)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-50">
-          <mxGeometry x="29.98" y="210" width="100.02" height="31.07" as="geometry" />
+          <mxGeometry x="29.98" y="175" width="100.02" height="25.89166666666667" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-55" value="Edge Probabilities" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1980" y="1560" width="404" height="123" as="geometry" />
