@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-0" value="(Updated) Memory" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2773" y="641" width="937" height="141" as="geometry" />
+          <mxGeometry x="1690" y="1106" width="937" height="141" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-1" value="s&lt;sub&gt;1&lt;/sub&gt;(t&lt;sub&gt;1&lt;/sub&gt;)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-0">
           <mxGeometry x="43" y="46" width="256" height="66" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="346" y="46" width="253" height="48" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-16" value="Node Embeddings" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3821" y="490" width="833" height="327" as="geometry" />
+          <mxGeometry x="1970" y="503" width="833" height="327" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-17" value="" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-16">
           <mxGeometry x="43" y="46" width="357" height="252" as="geometry" />
