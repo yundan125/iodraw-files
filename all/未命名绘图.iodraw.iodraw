@@ -81,7 +81,7 @@
             <mxPoint x="160" y="1590" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ziIK5Gps9_UgfE5r7tsA-77" value="⑤ agg" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ziIK5Gps9_UgfE5r7tsA-50" target="ziIK5Gps9_UgfE5r7tsA-88">
+        <mxCell id="ziIK5Gps9_UgfE5r7tsA-77" value="agg" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ziIK5Gps9_UgfE5r7tsA-50" target="ziIK5Gps9_UgfE5r7tsA-88">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="980" y="1752.9999999999995" as="targetPoint" />
@@ -166,6 +166,9 @@
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-108" value="④" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="380" y="1590" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ziIK5Gps9_UgfE5r7tsA-109" value="②" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="720" y="1660" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
