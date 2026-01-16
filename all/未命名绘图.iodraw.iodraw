@@ -190,7 +190,7 @@
           <mxGeometry x="235" y="46" width="142" height="48" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-58" value="Node Embeddings" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1330" y="1399" width="520" height="292" as="geometry" />
+          <mxGeometry x="747" y="1391" width="520" height="292" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-59" value="" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-58">
           <mxGeometry x="43" y="46" width="200" height="217" as="geometry" />
@@ -238,14 +238,6 @@
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-72" value="loss" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2454" y="1598" width="56" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="ziIK5Gps9_UgfE5r7tsA-73" value="① emb" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.35;entryX=0;entryY=0.35;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ziIK5Gps9_UgfE5r7tsA-65" target="ziIK5Gps9_UgfE5r7tsA-58">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="348" y="1369" />
-              <mxPoint x="2263" y="1369" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-74" value="② dec" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ziIK5Gps9_UgfE5r7tsA-58" target="ziIK5Gps9_UgfE5r7tsA-55">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -271,13 +263,6 @@
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-78" value="⑥ mem" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ziIK5Gps9_UgfE5r7tsA-46" target="ziIK5Gps9_UgfE5r7tsA-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="ziIK5Gps9_UgfE5r7tsA-79" value="Memory" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.65;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ziIK5Gps9_UgfE5r7tsA-42" target="ziIK5Gps9_UgfE5r7tsA-58">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2263" y="1477" />
-            </Array>
           </mxGeometry>
         </mxCell>
       </root>
