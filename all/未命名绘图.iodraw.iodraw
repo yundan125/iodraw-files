@@ -43,6 +43,9 @@
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-22" value="z&lt;sub&gt;2&lt;/sub&gt;(t&lt;sub&gt;1&lt;/sub&gt;)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-20">
           <mxGeometry x="58" y="159" width="257" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="ziIK5Gps9_UgfE5r7tsA-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ziIK5Gps9_UgfE5r7tsA-23" target="ziIK5Gps9_UgfE5r7tsA-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-23" value="Batch" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="130" y="496" width="167" height="219" as="geometry" />
         </mxCell>
@@ -134,6 +137,12 @@
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-3" value="s&lt;sub&gt;3&lt;/sub&gt;(t&lt;sub&gt;2&lt;/sub&gt;)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1274" y="960" width="256" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="ziIK5Gps9_UgfE5r7tsA-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1410" y="580" as="sourcePoint" />
+            <mxPoint x="1460" y="530" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
