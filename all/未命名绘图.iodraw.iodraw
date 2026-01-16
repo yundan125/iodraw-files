@@ -16,7 +16,7 @@
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-53" value="m₂(t₂)" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fillColor=#d5e8d4;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-50">
           <mxGeometry x="41.25" y="142.58333333333331" width="137.5" height="34.17" as="geometry" />
         </mxCell>
-        <mxCell id="ziIK5Gps9_UgfE5r7tsA-54" value="m₃(t₂)" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#9673a6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#e1d5e7;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-50">
+        <mxCell id="ziIK5Gps9_UgfE5r7tsA-54" value="m₃(t₂)" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#9673a6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fillColor=#e1d5e7;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-50">
           <mxGeometry x="41.25" y="187.5" width="137.5" height="34.17" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-55" value="Edge Probabilities" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -37,7 +37,7 @@
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-63" value="z₁(t₁)" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-58">
           <mxGeometry x="20.0035241502683" y="30.586244963738913" width="137.5" height="34.17" as="geometry" />
         </mxCell>
-        <mxCell id="ziIK5Gps9_UgfE5r7tsA-65" value="Batch" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ziIK5Gps9_UgfE5r7tsA-65" value="Batch" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;rounded=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="230" y="1431" width="130" height="149" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-66" value="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-65">
