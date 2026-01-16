@@ -79,6 +79,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="ziIK5Gps9_UgfE5r7tsA-39" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ziIK5Gps9_UgfE5r7tsA-31">
+          <mxGeometry x="-0.2179" y="55" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-32" value="② dec" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ziIK5Gps9_UgfE5r7tsA-16" target="ziIK5Gps9_UgfE5r7tsA-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -106,12 +111,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ziIK5Gps9_UgfE5r7tsA-37" value="Memory" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ziIK5Gps9_UgfE5r7tsA-0">
+        <mxCell id="ziIK5Gps9_UgfE5r7tsA-37" value="Memory" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.66;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ziIK5Gps9_UgfE5r7tsA-0" target="ziIK5Gps9_UgfE5r7tsA-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3765" y="712" />
             </Array>
-            <mxPoint x="1200" y="890" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-11" value="m&lt;sub&gt;2&lt;/sub&gt;(t&lt;sub&gt;2&lt;/sub&gt;)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
