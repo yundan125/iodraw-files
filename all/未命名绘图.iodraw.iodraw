@@ -38,10 +38,10 @@
           <mxGeometry x="30" y="100" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-53" value="m₂(t₂)" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-50">
-          <mxGeometry x="27.35" y="156.83" width="100" height="30" as="geometry" />
+          <mxGeometry x="30" y="158.5" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-54" value="m₃(t₂)" style="whiteSpace=wrap;strokeWidth=2;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-50">
-          <mxGeometry x="29.98" y="210" width="100.02" height="31.07" as="geometry" />
+          <mxGeometry x="29.98" y="210" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-55" value="Edge Probabilities" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1980" y="1560" width="404" height="123" as="geometry" />
