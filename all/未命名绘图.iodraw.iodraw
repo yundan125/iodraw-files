@@ -142,7 +142,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-42" value="(Updated) Memory" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1740" y="1415" width="467" height="123" as="geometry" />
+          <mxGeometry x="1000" y="1798.5" width="467" height="123" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-43" value="s₁(t₁)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-42">
           <mxGeometry x="43" y="46" width="99" height="48" as="geometry" />
