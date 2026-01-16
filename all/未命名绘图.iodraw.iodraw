@@ -29,16 +29,13 @@
           <mxGeometry x="641" y="46" width="249" height="66" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-8" value="Messages" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="437" y="800" width="1217" height="141" as="geometry" />
+          <mxGeometry x="420" y="830" width="1217" height="141" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-9" value="m&lt;sub&gt;1&lt;/sub&gt;(t&lt;sub&gt;1&lt;/sub&gt;)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-8">
           <mxGeometry x="43" y="46" width="249" height="66" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-10" value="m&lt;sub&gt;2&lt;/sub&gt;(t&lt;sub&gt;1&lt;/sub&gt;)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-8">
           <mxGeometry x="43" y="130" width="249" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="ziIK5Gps9_UgfE5r7tsA-11" value="m&lt;sub&gt;2&lt;/sub&gt;(t&lt;sub&gt;2&lt;/sub&gt;)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-8">
-          <mxGeometry x="641" y="46" width="249" height="66" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-12" value="m&lt;sub&gt;3&lt;/sub&gt;(t&lt;sub&gt;2&lt;/sub&gt;)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-8">
           <mxGeometry x="940" y="46" width="249" height="66" as="geometry" />
@@ -142,6 +139,9 @@
               <mxPoint x="3765" y="712" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ziIK5Gps9_UgfE5r7tsA-11" value="m&lt;sub&gt;2&lt;/sub&gt;(t&lt;sub&gt;2&lt;/sub&gt;)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="463" y="1050" width="249" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
