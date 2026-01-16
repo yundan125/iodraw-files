@@ -19,10 +19,10 @@
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-54" value="m₃(t₂)" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#9673a6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fillColor=#e1d5e7;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-50">
           <mxGeometry x="41.25" y="187.5" width="137.5" height="34.17" as="geometry" />
         </mxCell>
-        <mxCell id="ziIK5Gps9_UgfE5r7tsA-55" value="Edge Probabilities" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ziIK5Gps9_UgfE5r7tsA-55" value="Edge Probabilities" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;rounded=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1070" y="1320" width="170.5" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="ziIK5Gps9_UgfE5r7tsA-58" value="Node Embeddings" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ziIK5Gps9_UgfE5r7tsA-58" value="Node Embeddings" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;rounded=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="600" y="1320" width="360" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-64" value="z₂(t₁)" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=20;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-58">
