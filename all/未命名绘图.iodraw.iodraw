@@ -142,7 +142,10 @@
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-96" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ziIK5Gps9_UgfE5r7tsA-92">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="790" y="1730" as="sourcePoint" />
-            <mxPoint x="840" y="1680" as="targetPoint" />
+            <mxPoint x="810" y="1700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1110" y="1640" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
