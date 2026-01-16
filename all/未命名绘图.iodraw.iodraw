@@ -32,10 +32,10 @@
           <mxGeometry x="270" y="1580" width="160" height="300" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-51" value="m₁(t₁)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-50">
-          <mxGeometry x="-10" y="20" width="56.38" height="30" as="geometry" />
+          <mxGeometry x="25.42" y="40" width="104.58" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-52" value="m₂(t₁)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-50">
-          <mxGeometry x="49.51788491446346" y="112.1951219512195" width="26.376360808709176" height="117.07317073170731" as="geometry" />
+          <mxGeometry x="20" y="151.46" width="85.41" height="38.54" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-53" value="m₂(t₂)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-50">
           <mxGeometry x="88.33592534992225" y="112.1951219512195" width="26.376360808709176" height="117.07317073170731" as="geometry" />
