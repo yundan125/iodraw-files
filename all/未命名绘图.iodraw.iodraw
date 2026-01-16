@@ -29,7 +29,7 @@
           <mxGeometry x="641" y="46" width="249" height="66" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-8" value="Messages" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="429" y="641" width="1217" height="141" as="geometry" />
+          <mxGeometry x="437" y="800" width="1217" height="141" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-9" value="m&lt;sub&gt;1&lt;/sub&gt;(t&lt;sub&gt;1&lt;/sub&gt;)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-8">
           <mxGeometry x="43" y="46" width="249" height="66" as="geometry" />
@@ -74,7 +74,7 @@
           <mxGeometry x="58" y="159" width="257" height="66" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-23" value="Batch" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="160" y="544" width="167" height="219" as="geometry" />
+          <mxGeometry x="130" y="496" width="167" height="219" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-24" value="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-23">
           <mxGeometry x="43" y="46" width="23" height="23" as="geometry" />
