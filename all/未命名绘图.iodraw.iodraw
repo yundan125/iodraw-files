@@ -29,7 +29,7 @@
           <mxGeometry x="200.00053667262966" y="30.587711522965346" width="137.5" height="34.17" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-60" value="z₂(t₂)" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-58">
-          <mxGeometry x="66.97545617173522" y="84.11785656728443" width="69.23076923076923" height="21.36986301369863" as="geometry" />
+          <mxGeometry x="66.97545617173522" y="84.11785656728443" width="137.5" height="34.17" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-61" value="z₃(t₂)" style="whiteSpace=wrap;strokeWidth=2;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-58">
           <mxGeometry x="234.41924865831834" y="84.11785656728443" width="69.23076923076923" height="21.36986301369863" as="geometry" />
