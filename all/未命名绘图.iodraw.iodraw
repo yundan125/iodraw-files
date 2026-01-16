@@ -135,7 +135,7 @@
           <mxGeometry x="503" y="950" width="249" height="66" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-5" value="m&lt;sub&gt;1&lt;/sub&gt;(t&lt;sub&gt;1&lt;/sub&gt;)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1010" y="1050" width="249" height="66" as="geometry" />
+          <mxGeometry x="920" y="840" width="249" height="66" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-6" value="m&lt;sub&gt;2&lt;/sub&gt;(t&lt;sub&gt;2&lt;/sub&gt;)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1300" y="1050" width="249" height="66" as="geometry" />
