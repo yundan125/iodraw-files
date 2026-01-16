@@ -38,19 +38,19 @@
           <mxGeometry x="20.0035241502683" y="30.586244963738913" width="137.5" height="34.17" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-65" value="Batch" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;rounded=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="230" y="1431" width="130" height="149" as="geometry" />
+          <mxGeometry x="200" y="1431" width="160" height="149" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-66" value="1" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=20;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-65">
-          <mxGeometry x="28.71" y="48.65" width="20.41" height="20.41" as="geometry" />
+          <mxGeometry x="35.33538461538462" y="48.65" width="20.41" height="20.41" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-67" value="2" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=20;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-65">
-          <mxGeometry x="90.2994011976048" y="51.02739726027397" width="20.41" height="20.41" as="geometry" />
+          <mxGeometry x="111.13772455089821" y="51.02739726027397" width="20.41" height="20.41" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-68" value="2" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=20;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-65">
-          <mxGeometry x="33.47305389221557" y="90.48858447488584" width="20.41" height="20.41" as="geometry" />
+          <mxGeometry x="41.19760479041916" y="90.48858447488584" width="20.41" height="20.41" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-69" value="3" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=20;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-65">
-          <mxGeometry x="90.2994011976048" y="90.48858447488584" width="15.648401826484017" height="15.648401826484017" as="geometry" />
+          <mxGeometry x="111.13772455089821" y="90.48858447488584" width="20.41" height="20.41" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-70" value="t₁" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="ziIK5Gps9_UgfE5r7tsA-65" source="ziIK5Gps9_UgfE5r7tsA-66" target="ziIK5Gps9_UgfE5r7tsA-67">
           <mxGeometry relative="1" as="geometry">
