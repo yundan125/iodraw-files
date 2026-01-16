@@ -94,7 +94,7 @@
             <mxPoint x="980" y="1733.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ziIK5Gps9_UgfE5r7tsA-112" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ziIK5Gps9_UgfE5r7tsA-78">
+        <mxCell id="ziIK5Gps9_UgfE5r7tsA-112" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Text&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ziIK5Gps9_UgfE5r7tsA-78">
           <mxGeometry x="-0.0338" y="-8" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
