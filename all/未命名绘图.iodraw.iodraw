@@ -4,18 +4,6 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="ziIK5Gps9_UgfE5r7tsA-42" value="(Updated) Memory" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="980" y="1598" width="190" height="271.5" as="geometry" />
-        </mxCell>
-        <mxCell id="ziIK5Gps9_UgfE5r7tsA-43" value="s₁(t₁)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-42">
-          <mxGeometry x="17.494646680942186" y="101.53658536585367" width="40.27837259100642" height="105.95121951219514" as="geometry" />
-        </mxCell>
-        <mxCell id="ziIK5Gps9_UgfE5r7tsA-44" value="s₂(t₂)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-42">
-          <mxGeometry x="78.11563169164883" y="101.53658536585367" width="40.27837259100642" height="105.95121951219514" as="geometry" />
-        </mxCell>
-        <mxCell id="ziIK5Gps9_UgfE5r7tsA-45" value="s₃(t₂)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-42">
-          <mxGeometry x="138.73661670235546" y="101.53658536585367" width="40.27837259100642" height="105.95121951219514" as="geometry" />
-        </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-50" value="Messages" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="1580" width="160" height="290" as="geometry" />
         </mxCell>
@@ -110,18 +98,20 @@
             <mxPoint x="570" y="1730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ziIK5Gps9_UgfE5r7tsA-78" value="⑥ mem" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="ziIK5Gps9_UgfE5r7tsA-42">
+        <mxCell id="ziIK5Gps9_UgfE5r7tsA-78" value="⑥ mem" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="770" y="1730" as="sourcePoint" />
+            <mxPoint x="980" y="1733.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ziIK5Gps9_UgfE5r7tsA-79" value="Memory" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.65;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ziIK5Gps9_UgfE5r7tsA-42" target="ziIK5Gps9_UgfE5r7tsA-58">
+        <mxCell id="ziIK5Gps9_UgfE5r7tsA-79" value="Memory" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.65;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="ziIK5Gps9_UgfE5r7tsA-58">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="1170" y="1733.75" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ziIK5Gps9_UgfE5r7tsA-83" value="Aggregated Messages" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ziIK5Gps9_UgfE5r7tsA-83" value="(Updated) Memory" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="810" y="1579.5" width="160" height="290" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-84" value="m₁(t₁)" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-83">
