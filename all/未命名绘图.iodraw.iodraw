@@ -20,7 +20,7 @@
           <mxGeometry x="30" y="217.5" width="100" height="29" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-55" value="Edge Probabilities" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1980" y="1560" width="404" height="123" as="geometry" />
+          <mxGeometry x="1280" y="1330" width="404" height="123" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-56" value="p((1, 2)|t₁)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-55">
           <mxGeometry x="43" y="46" width="142" height="48" as="geometry" />
@@ -69,7 +69,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-72" value="loss" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2454" y="1598" width="56" height="48" as="geometry" />
+          <mxGeometry x="1710" y="1490.5" width="56" height="48" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-74" value="② dec" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ziIK5Gps9_UgfE5r7tsA-58" target="ziIK5Gps9_UgfE5r7tsA-55">
           <mxGeometry relative="1" as="geometry">
@@ -137,7 +137,7 @@
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-99" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ziIK5Gps9_UgfE5r7tsA-92">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="790" y="1730" as="sourcePoint" />
-            <mxPoint x="450" y="1370" as="targetPoint" />
+            <mxPoint x="440" y="1420" as="targetPoint" />
             <Array as="points">
               <mxPoint x="880" y="1450" />
               <mxPoint x="580" y="1510" />
