@@ -4,7 +4,7 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="ziIK5Gps9_UgfE5r7tsA-50" value="Messages" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ziIK5Gps9_UgfE5r7tsA-50" value="Messages" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;rounded=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="440" y="1580" width="220" height="250" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-51" value="m₁(t₁)" style="whiteSpace=wrap;strokeWidth=2;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-50">
@@ -103,7 +103,7 @@
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-90" value="m₂(t₂)" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#82b366;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fillColor=#d5e8d4;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-88">
           <mxGeometry x="41.25" y="85.49781609195402" width="137.5" height="34.17" as="geometry" />
         </mxCell>
-        <mxCell id="ziIK5Gps9_UgfE5r7tsA-91" value="m₃(t₂)" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#9673a6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#e1d5e7;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-88">
+        <mxCell id="ziIK5Gps9_UgfE5r7tsA-91" value="m₃(t₂)" style="whiteSpace=wrap;strokeWidth=2;strokeColor=#9673a6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=20;fillColor=#e1d5e7;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-88">
           <mxGeometry x="41.25" y="137.5" width="137.5" height="34.17" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-92" value="(Updated) Memory" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;rounded=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
