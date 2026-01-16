@@ -17,16 +17,16 @@
           <mxGeometry x="654" y="46" width="256" height="66" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-4" value="Aggregated Messages" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="940" y="840" width="410" height="370" as="geometry" />
+          <mxGeometry x="940" y="840" width="917" height="141" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-5" value="m&lt;sub&gt;1&lt;/sub&gt;(t&lt;sub&gt;1&lt;/sub&gt;)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-4">
-          <mxGeometry x="19.225736095965104" y="120.70921985815603" width="111.33042529989095" height="173.19148936170214" as="geometry" />
+          <mxGeometry x="43" y="46" width="249" height="66" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-6" value="m&lt;sub&gt;2&lt;/sub&gt;(t&lt;sub&gt;2&lt;/sub&gt;)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-4">
-          <mxGeometry x="152.91166848418757" y="120.70921985815603" width="111.33042529989095" height="173.19148936170214" as="geometry" />
+          <mxGeometry x="342" y="46" width="249" height="66" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-7" value="m&lt;sub&gt;3&lt;/sub&gt;(t&lt;sub&gt;2&lt;/sub&gt;)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-4">
-          <mxGeometry x="286.59760087241006" y="120.70921985815603" width="111.33042529989095" height="173.19148936170214" as="geometry" />
+          <mxGeometry x="641" y="46" width="249" height="66" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-8" value="Messages" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="460" y="830" width="330" height="370" as="geometry" />
