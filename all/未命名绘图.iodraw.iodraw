@@ -87,7 +87,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ziIK5Gps9_UgfE5r7tsA-76" value="④ msg" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.65;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ziIK5Gps9_UgfE5r7tsA-65" target="ziIK5Gps9_UgfE5r7tsA-50">
+        <mxCell id="ziIK5Gps9_UgfE5r7tsA-76" value="④ msg" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ziIK5Gps9_UgfE5r7tsA-65" target="ziIK5Gps9_UgfE5r7tsA-50">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
@@ -149,7 +149,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ziIK5Gps9_UgfE5r7tsA-100" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.988;exitY=0.885;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ziIK5Gps9_UgfE5r7tsA-65">
+        <mxCell id="ziIK5Gps9_UgfE5r7tsA-100" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ziIK5Gps9_UgfE5r7tsA-65">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="1470" as="sourcePoint" />
             <mxPoint x="490" y="1420" as="targetPoint" />
