@@ -17,13 +17,7 @@
           <mxGeometry x="654" y="46" width="256" height="66" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-4" value="Aggregated Messages" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="940" y="840" width="917" height="141" as="geometry" />
-        </mxCell>
-        <mxCell id="ziIK5Gps9_UgfE5r7tsA-5" value="m&lt;sub&gt;1&lt;/sub&gt;(t&lt;sub&gt;1&lt;/sub&gt;)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-4">
-          <mxGeometry x="43" y="46" width="249" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="ziIK5Gps9_UgfE5r7tsA-6" value="m&lt;sub&gt;2&lt;/sub&gt;(t&lt;sub&gt;2&lt;/sub&gt;)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-4">
-          <mxGeometry x="342" y="46" width="249" height="66" as="geometry" />
+          <mxGeometry x="940" y="790" width="917" height="141" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-7" value="m&lt;sub&gt;3&lt;/sub&gt;(t&lt;sub&gt;2&lt;/sub&gt;)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-4">
           <mxGeometry x="641" y="46" width="249" height="66" as="geometry" />
@@ -142,6 +136,12 @@
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-10" value="m&lt;sub&gt;2&lt;/sub&gt;(t&lt;sub&gt;1&lt;/sub&gt;)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="503" y="950" width="249" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="ziIK5Gps9_UgfE5r7tsA-5" value="m&lt;sub&gt;1&lt;/sub&gt;(t&lt;sub&gt;1&lt;/sub&gt;)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1010" y="1050" width="249" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="ziIK5Gps9_UgfE5r7tsA-6" value="m&lt;sub&gt;2&lt;/sub&gt;(t&lt;sub&gt;2&lt;/sub&gt;)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1300" y="1050" width="249" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
