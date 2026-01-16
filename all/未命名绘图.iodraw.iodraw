@@ -26,7 +26,7 @@
           <mxGeometry x="600" y="1320" width="410" height="130" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-64" value="z₂(t₁)" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-58">
-          <mxGeometry x="208.31894454382822" y="30.587711522965346" width="137.5" height="34.17" as="geometry" />
+          <mxGeometry x="266.9789445438282" y="30.587711522965346" width="225.5" height="37.0175" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-60" value="z₂(t₂)" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-58">
           <mxGeometry x="76.277602862254" y="84.11785656728443" width="78.84615384615384" height="21.36986301369863" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="266.9774776386404" y="84.11785656728443" width="78.84615384615384" height="21.36986301369863" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-63" value="z₁(t₁)" style="whiteSpace=wrap;strokeWidth=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-58">
-          <mxGeometry x="25.62759000447224" y="30.586244963738913" width="137.5" height="34.17" as="geometry" />
+          <mxGeometry x="25.62759000447224" y="30.586244963738913" width="225.5" height="37.0175" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-65" value="Batch" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="230" y="1431" width="130" height="149" as="geometry" />
