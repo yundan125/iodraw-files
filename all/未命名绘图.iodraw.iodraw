@@ -150,10 +150,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-57" value="p((2, 3)|t₂)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1360" y="1470" width="142" height="48" as="geometry" />
+          <mxGeometry x="1360" y="1470" width="137.5" height="34.17" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-56" value="p((1, 2)|t₁)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1210" y="1470" width="142" height="48" as="geometry" />
+          <mxGeometry x="1059.5" y="1350" width="137.5" height="34.17" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
