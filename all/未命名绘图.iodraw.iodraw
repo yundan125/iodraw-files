@@ -70,7 +70,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ziIK5Gps9_UgfE5r7tsA-75" value="③" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ziIK5Gps9_UgfE5r7tsA-55" target="ziIK5Gps9_UgfE5r7tsA-72">
+        <mxCell id="ziIK5Gps9_UgfE5r7tsA-75" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ziIK5Gps9_UgfE5r7tsA-55" target="ziIK5Gps9_UgfE5r7tsA-72">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
@@ -156,9 +156,9 @@
           <mxGeometry x="1059.5" y="1350" width="137.5" height="34.17" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-105" value="①" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="480" y="1365" width="60" height="30" as="geometry" />
+          <mxGeometry x="480" y="1354.17" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ziIK5Gps9_UgfE5r7tsA-106" value="①" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="ziIK5Gps9_UgfE5r7tsA-106" value="②" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="907" y="1335" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
