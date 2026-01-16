@@ -107,7 +107,10 @@
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-79" value="Memory" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.65;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ziIK5Gps9_UgfE5r7tsA-92" target="ziIK5Gps9_UgfE5r7tsA-58">
           <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
+            <Array as="points">
+              <mxPoint x="1260" y="1530" />
+              <mxPoint x="740" y="1510" />
+            </Array>
             <mxPoint x="1170" y="1733.75" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
