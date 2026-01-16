@@ -145,8 +145,8 @@
             <mxPoint x="1090" y="1700" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1170" y="1560" />
-              <mxPoint x="1100" y="1600" />
-              <mxPoint x="1070" y="1650" />
+              <mxPoint x="1090" y="1580" />
+              <mxPoint x="1050" y="1650" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -172,7 +172,7 @@
           <mxGeometry x="715" y="1660" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-110" value="⑥" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=26;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1130" y="1660" width="60" height="30" as="geometry" />
+          <mxGeometry x="1120" y="1660" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
