@@ -110,7 +110,7 @@
             <mxPoint x="570" y="1730" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ziIK5Gps9_UgfE5r7tsA-78" value="⑥ mem" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="ziIK5Gps9_UgfE5r7tsA-42">
+        <mxCell id="ziIK5Gps9_UgfE5r7tsA-78" value="⑥ mem" style="curved=1;startArrow=none;endArrow=block;exitX=1.011;exitY=0.476;entryX=0;entryY=0.5;rounded=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ziIK5Gps9_UgfE5r7tsA-83" target="ziIK5Gps9_UgfE5r7tsA-42">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="770" y="1730" as="sourcePoint" />
