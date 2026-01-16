@@ -25,7 +25,7 @@
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-58" value="Node Embeddings" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="600" y="1320" width="360" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="ziIK5Gps9_UgfE5r7tsA-64" value="z₂(t₁)" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-58">
+        <mxCell id="ziIK5Gps9_UgfE5r7tsA-64" value="z₂(t₁)" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=20;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-58">
           <mxGeometry x="200.00053667262966" y="30.587711522965346" width="137.5" height="34.17" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-60" value="z₂(t₂)" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-58">
