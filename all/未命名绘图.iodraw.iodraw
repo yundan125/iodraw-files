@@ -35,7 +35,7 @@
           <mxGeometry x="30" y="40" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-52" value="m₂(t₁)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-50">
-          <mxGeometry x="37.64" y="100" width="84.71" height="28.54" as="geometry" />
+          <mxGeometry x="30" y="100" width="99.99" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-53" value="m₂(t₂)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-50">
           <mxGeometry x="88.33592534992225" y="112.1951219512195" width="26.376360808709176" height="117.07317073170731" as="geometry" />
