@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1644" dy="-182" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="459" dy="-893" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -63,7 +63,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-72" value="loss" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1450" y="1356" width="56" height="48" as="geometry" />
+          <mxGeometry x="1350" y="1356" width="56" height="48" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-74" value="② dec" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="ziIK5Gps9_UgfE5r7tsA-58" target="ziIK5Gps9_UgfE5r7tsA-55">
           <mxGeometry relative="1" as="geometry">
@@ -150,7 +150,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-57" value="p((2, 3)|t₂)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1360" y="1470" width="137.5" height="34.17" as="geometry" />
+          <mxGeometry x="1059.5" y="1396.83" width="137.5" height="34.17" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-56" value="p((1, 2)|t₁)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1059.5" y="1350" width="137.5" height="34.17" as="geometry" />
