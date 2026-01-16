@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="947" dy="568" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="947" dy="-601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -29,19 +29,19 @@
           <mxGeometry x="235" y="46" width="142" height="48" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-58" value="Node Embeddings" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="590" y="1160" width="520" height="292" as="geometry" />
+          <mxGeometry x="600" y="1190" width="430" height="170" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-64" value="z₂(t₁)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-58">
-          <mxGeometry x="360" y="59" width="100" height="48" as="geometry" />
+          <mxGeometry x="297.6923076923077" y="34.34931506849315" width="82.6923076923077" height="27.945205479452056" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-60" value="z₂(t₂)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-58">
-          <mxGeometry x="280" y="210" width="100" height="48" as="geometry" />
+          <mxGeometry x="231.53846153846152" y="122.26027397260273" width="82.6923076923077" height="27.945205479452056" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-61" value="z₃(t₂)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-58">
-          <mxGeometry x="380" y="210" width="100" height="48" as="geometry" />
+          <mxGeometry x="314.2307692307692" y="122.26027397260273" width="82.6923076923077" height="27.945205479452056" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-63" value="z₁(t₁)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="ziIK5Gps9_UgfE5r7tsA-58">
-          <mxGeometry x="310" y="122" width="100" height="48" as="geometry" />
+          <mxGeometry x="256.3461538461538" y="71.02739726027397" width="82.6923076923077" height="27.945205479452056" as="geometry" />
         </mxCell>
         <mxCell id="ziIK5Gps9_UgfE5r7tsA-65" value="Batch" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="40" y="1440" width="130" height="149" as="geometry" />
